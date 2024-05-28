@@ -6,6 +6,7 @@
 
 ## 주니어 자바 개발자를 위한 100가지 질문
 ### 1️⃣ 기초
+### https://ad-astra0617.tistory.com/19
 - 📌 JDK와 JRE의 차이점은 무엇입니까?
 - 📌 ==와 equals의 차이점은 무엇입니까?
 - 📌 두 객체가 동일한 hashCode를 가지면 Equals()가 참이어야 합니다, 그렇죠?
@@ -21,6 +22,7 @@
 - 📌 final은 추상 클래스를 수정할 때 사용할 수 있나요?
 
 ### 2️⃣ Container
+### https://ad-astra0617.tistory.com/20
 - 📌 자바 컨테이너란 무엇인가요?
 - 📌 Collection과 Collections의 차이는 무엇인가요?
 - 📌 List, Set, Map의 차이점을 말해주세요.
