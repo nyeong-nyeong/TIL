@@ -4,6 +4,8 @@
 
 - [Builder Pattern?](https://ad-astra0617.tistory.com/10)
 
+- [Collection Framework](https://ad-astra0617.tistory.com/28)
+
 ## 주니어 자바 개발자를 위한 100가지 질문
 ### 1️⃣ 기초
 ### https://ad-astra0617.tistory.com/19
