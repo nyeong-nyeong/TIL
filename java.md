@@ -43,6 +43,7 @@
 - 📌 iterator와 listIterator의 차이는 무엇인가요?
 
 ### 3️⃣ multi-threading
+### https://ad-astra0617.tistory.com/21
 - 📌 병렬과 동시성의 차이점을 말해주세요.
 - 📌 스레드와 프로세스의 차이를 말해주세요..
 - 📌 데몬 스레드는 무엇인가요?
