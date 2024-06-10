@@ -73,6 +73,7 @@
 
 
 ### 6️⃣ Java Web
+### https://ad-astra0617.tistory.com/24
 - 📌 jsp와 servlet의 차이점은 무엇인가요?
 - 📌 jsp를 기본 제공하는 객체는 무엇이 있나요? 
 - 📌 4개의 jsp scope에는 무엇이 있나요?
@@ -85,6 +86,7 @@
 - 📌 CSRF 공격이 무엇이고, 어떻게 피할 수 있는지 설명해주세요.
 
 ### 7️⃣ 예외 클래스 
+### https://ad-astra0617.tistory.com/25
 - 📌 throw와 throws의 차이는 무엇인가요?
 - 📌 final, finally, finalise의 차이는 무엇인가요?
 - 📌 try-catch-finally에서 생략할 수 있는 부분이 무엇인가요?
