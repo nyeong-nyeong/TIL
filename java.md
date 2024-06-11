@@ -94,6 +94,7 @@
 - 📌 exception 클래스의 예시를 말해주세요.
 
 ### 8️⃣ internet
+### https://ad-astra0617.tistory.com/26
 - 📌 301과 302 상태 코드의 의미와 차이는 무엇인가요?
 - 📌 forward와 redirect의 차이는 무엇인가요?
 - 📌 tcp와 udp의 차이점을 말해주세요.
@@ -108,6 +109,7 @@
 - 📌 추상 팩토리와 심플 팩토리의 차이가 무엇인가요?
  
 ###  9️⃣ Spring
+### https://ad-astra0617.tistory.com/27
 - 📌 스프링 사용의 장점은 무엇인가요?
 - 📌 AOP란 무엇인가요?
 - 📌 IOC란 무엇인가요?
